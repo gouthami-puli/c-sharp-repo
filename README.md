@@ -14,4 +14,5 @@
 ___
 Interesting to know about the above Horizontal rule
 [My first edit in git](https://github.com/gouthami-puli/c-sharp-repo/edit/c-sharp-branch/README.md)
-[^1]: Second attempt to create a new branch and to merge with the main branch at the end
+
+**(a+b)^2=a^2+b^2+2ab
